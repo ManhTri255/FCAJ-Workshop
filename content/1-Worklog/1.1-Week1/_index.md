@@ -1,0 +1,96 @@
+---
+title: "Week 1 Worklog"
+date: 2024-04-20
+weight: 1
+chapter: false
+pre: " <b> 1.1. </b> "
+---
+
+### Week 1 Objectives:
+
+* Register and activate an AWS account to receive 100 USD AWS Credits.
+* Learn foundational cloud computing knowledge through Module 01.
+* Write a self-introduction to find a team and meet FCAJ members.
+
+### Tasks to be carried out this week:
+<table class="worklog-table">
+<colgroup>
+  <col class="col-day" style="width:5%">
+  <col class="col-task" style="width:42%">
+  <col class="col-start" style="width:13%">
+  <col class="col-end" style="width:13%">
+  <col class="col-ref" style="width:27%">
+</colgroup>
+  <thead>
+    <tr>
+      <th>Day</th>
+      <th>Task</th>
+      <th>Start Date</th>
+      <th>Completion Date</th>
+      <th>Reference Material</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="col-day">20/04</td>
+      <td class="col-task">- Write a self-introduction to introduce yourself to FCAJ members.<br>- Create an AWS Free Tier account.<br>- Complete verification and account activation steps.</td>
+      <td class="col-date">20/04/2024</td>
+      <td class="col-date">20/04/2024</td>
+      <td class="col-ref">Module 01, AWS Management Console</td>
+    </tr>
+    <tr>
+      <td class="col-day">21/04</td>
+      <td class="col-task">- Verify and confirm receipt of 100 USD AWS Credits.<br>- Familiarize yourself with the AWS Management Console interface.<br>- Find a team to work on the project.</td>
+      <td class="col-date">21/04/2024</td>
+      <td class="col-date">21/04/2024</td>
+      <td class="col-ref">AWS Management Console</td>
+    </tr>
+    <tr>
+      <td class="col-day">22/04</td>
+      <td class="col-task">- Study Module 01-01: What Is Cloud Computing?<br>- Explore basic AWS services.</td>
+      <td class="col-date">22/04/2024</td>
+      <td class="col-date">22/04/2024</td>
+      <td class="col-ref">Module 01-01</td>
+    </tr>
+    <tr>
+      <td class="col-day">23/04</td>
+      <td class="col-task">- Study Module 01-02: What Makes AWS Different?<br>- Learn about managed database services on AWS.</td>
+      <td class="col-date">23/04/2024</td>
+      <td class="col-date">23/04/2024</td>
+      <td class="col-ref">Module 01-02</td>
+    </tr>
+    <tr>
+      <td class="col-day">24/04</td>
+      <td class="col-task">- Review knowledge from Module 01-01 and Module 01-02.<br>- Learn about the Serverless model and how to deploy functions on AWS.</td>
+      <td class="col-date">24/04/2024</td>
+      <td class="col-date">24/04/2024</td>
+      <td class="col-ref">Module 01-01, Module 01-02</td>
+    </tr>
+    <tr>
+      <td class="col-day">25/04</td>
+      <td class="col-task">- Study Module 01-03: How to Start Your Cloud Journey?<br>- Learn how to create and manage virtual servers on AWS.</td>
+      <td class="col-date">25/04/2024</td>
+      <td class="col-date">25/04/2024</td>
+      <td class="col-ref">Module 01-03</td>
+    </tr>
+    <tr>
+      <td class="col-day">26/04</td>
+      <td class="col-task">- Summarize the knowledge learned in Module 01.</td>
+      <td class="col-date">26/04/2024</td>
+      <td class="col-date">26/04/2024</td>
+      <td class="col-ref">Module 01</td>
+    </tr>
+  </tbody>
+</table>
+
+
+### Week 1 Achievements:
+
+* Successfully registered and activated an AWS account.
+* Successfully received 100 USD AWS Credits after account creation.
+* Completed the following learning modules:
+  * Module 01-01: What Is Cloud Computing?
+  * Module 01-02: What Makes AWS Different?
+  * Module 01-03: How to Start Your Cloud Journey?
+* Learned and familiarized with the AWS Management Console interface.
+* Wrote a self-introduction to find a team and meet FCAJ members.
