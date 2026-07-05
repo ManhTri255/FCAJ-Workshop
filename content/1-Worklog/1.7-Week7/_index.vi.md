@@ -1,6 +1,6 @@
 ---
 title: "Worklog Tuần 7"
-date: 2026-01-01
+date: 2026
 weight: 7
 chapter: false
 pre: " <b> 1.7. </b> "
@@ -23,7 +23,7 @@ pre: " <b> 1.7. </b> "
 </colgroup>
   <thead>
     <tr>
-      <th>Ngày</th>
+      <th>Thứ</th>
       <th>Công việc</th>
       <th>Ngày bắt đầu</th>
       <th>Ngày hoàn thành</th>
@@ -32,53 +32,53 @@ pre: " <b> 1.7. </b> "
   </thead>
   <tbody>
     <tr>
-      <td class="col-day">01/06</td>
+      <td class="col-day">2</td>
       <td class="col-task">- Ôn tập các kiến thức về Amazon EC2, VPC, Application Load Balancer và Amazon SQS <br> - Đánh giá khả năng sử dụng các dịch vụ AWS trong quá trình triển khai đồ án</td>
       <td class="col-date">01/06/2026</td>
       <td class="col-date">01/06/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-ref"></td>
     </tr>
     <tr>
-      <td class="col-day">02/06</td>
+      <td class="col-day">3</td>
       <td class="col-task">- Phân tích yêu cầu nghiệp vụ của hệ thống ZeroBug Agent <br> - Xác định các thành phần của hệ thống cần triển khai trên nền tảng AWS</td>
       <td class="col-date">02/06/2026</td>
       <td class="col-date">02/06/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-ref"></td>
     </tr>
     <tr>
-      <td class="col-day">03/06</td>
+      <td class="col-day">4</td>
       <td class="col-task">- Nghiên cứu mô hình triển khai hệ thống trên AWS <br> - Xác định vai trò của từng dịch vụ: EC2 (Backend), RDS (Database), S3 (Static Assets), ALB (Load Balancing), SQS (Message Queue)</td>
       <td class="col-date">03/06/2026</td>
       <td class="col-date">03/06/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-ref"></td>
     </tr>
     <tr>
-      <td class="col-day">04/06</td>
+      <td class="col-day">5</td>
       <td class="col-task">- Xây dựng phương án triển khai hạ tầng cho đồ án <br> - Đánh giá khả năng mở rộng, tính bảo mật và tính sẵn sàng của hệ thống</td>
       <td class="col-date">04/06/2026</td>
       <td class="col-date">04/06/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-ref"></td>
     </tr>
     <tr>
-      <td class="col-day">05/06</td>
+      <td class="col-day">6</td>
       <td class="col-task">- Lập kế hoạch triển khai đồ án <br> - Xác định các giai đoạn thực hiện: Thiết kế hệ thống, Backend, Frontend, Triển khai AWS, Kiểm thử và tối ưu hóa</td>
       <td class="col-date">05/06/2026</td>
       <td class="col-date">05/06/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-ref"></td>
     </tr>
     <tr>
-      <td class="col-day">06/06</td>
+      <td class="col-day">7</td>
       <td class="col-task">- Phân chia công việc cho các thành viên theo từng hạng mục của đồ án <br> - Xác định tiến độ thực hiện và các mốc hoàn thành của từng giai đoạn</td>
       <td class="col-date">06/06/2026</td>
       <td class="col-date">06/06/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-ref"></td>
     </tr>
     <tr>
-      <td class="col-day">07/06</td>
+      <td class="col-day">8</td>
       <td class="col-task">- Tổng hợp kết quả nghiên cứu <br> - Hoàn thiện kế hoạch triển khai đồ án <br> - Chuẩn bị cho giai đoạn thiết kế kiến trúc hệ thống</td>
       <td class="col-date">07/06/2026</td>
       <td class="col-date">07/06/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-ref"></td>
     </tr>
   </tbody>
 </table>

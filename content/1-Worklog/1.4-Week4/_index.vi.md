@@ -1,6 +1,6 @@
 ---
 title: "Worklog Tuần 4"
-date: 2026-01-01
+date: 2026
 weight: 4
 chapter: false
 pre: " <b> 1.4. </b> "
@@ -23,7 +23,7 @@ pre: " <b> 1.4. </b> "
 </colgroup>
   <thead>
     <tr>
-      <th>Ngày</th>
+      <th>Thứ</th>
       <th>Công việc</th>
       <th>Ngày bắt đầu</th>
       <th>Ngày hoàn thành</th>
@@ -32,53 +32,53 @@ pre: " <b> 1.4. </b> "
   </thead>
   <tbody>
     <tr>
-      <td class="col-day">11/05</td>
+      <td class="col-day">2</td>
       <td class="col-task">- Thực hiện Module 02-Lab03-01.4 - NAT Gateway <br> - Tìm hiểu vai trò của NAT Gateway trong việc cung cấp kết nối Internet cho Private Subnet</td>
       <td class="col-date">11/05/2026</td>
       <td class="col-date">11/05/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-ref">https://000003.awsstudygroup.com/1-introduce/1.4-natgateway/</td>
     </tr>
     <tr>
-      <td class="col-day">12/05</td>
+      <td class="col-day">3</td>
       <td class="col-task">- Thực hiện Module 02-Lab03-04.3 - Create NAT Gateway <br> - Tạo NAT Gateway <br> - Kiểm tra khả năng kết nối Internet từ Private Subnet</td>
       <td class="col-date">12/05/2026</td>
       <td class="col-date">12/05/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-ref">https://000003.awsstudygroup.com/4-createec2server/4.3-natgateway/</td>
     </tr>
     <tr>
-      <td class="col-day">13/05</td>
+      <td class="col-day">4</td>
       <td class="col-task">- Thực hiện Module 02-Lab03-01.2 - Route Table <br> - Tìm hiểu nguyên lý định tuyến trong Amazon VPC</td>
       <td class="col-date">13/05/2026</td>
       <td class="col-date">13/05/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-ref">https://000003.awsstudygroup.com/1-introduce/1.2-routetable/</td>
     </tr>
     <tr>
-      <td class="col-day">14/05</td>
+      <td class="col-day">5</td>
       <td class="col-task">- Thực hiện Module 02-Lab03-03.4 - Create Route Table for Outbound Internet <br> - Tạo Route Table <br> - Cấu hình Route đến Internet Gateway và NAT Gateway</td>
       <td class="col-date">14/05/2026</td>
       <td class="col-date">14/05/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-ref">https://000003.awsstudygroup.com/3-prerequisite/3.4-createroutetable/</td>
     </tr>
     <tr>
-      <td class="col-day">15/05</td>
+      <td class="col-day">6</td>
       <td class="col-task">- Thực hiện Module 02-Lab03-02.1 - Security Group <br> - Tìm hiểu cơ chế kiểm soát truy cập bằng Security Group</td>
       <td class="col-date">15/05/2026</td>
       <td class="col-date">15/05/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-ref">https://000003.awsstudygroup.com/2-firewallinvpc/2.1-securitygroup/</td>
     </tr>
     <tr>
-      <td class="col-day">16/05</td>
+      <td class="col-day">7</td>
       <td class="col-task">- Thực hiện Module 02-Lab03-03.5 - Create Security Groups <br> - Tạo Security Groups cho các tài nguyên trong VPC <br> - Kiểm tra các quy tắc Inbound và Outbound</td>
       <td class="col-date">16/05/2026</td>
       <td class="col-date">16/05/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-ref">https://000003.awsstudygroup.com/3-prerequisite/3.5-createsecuritygroup/</td>
     </tr>
     <tr>
-      <td class="col-day">17/05</td>
+      <td class="col-day">8</td>
       <td class="col-task">- Ôn tập các Lab đã thực hiện <br> - Tổng hợp kiến thức về NAT Gateway, Route Table và Security Group</td>
       <td class="col-date">17/05/2026</td>
       <td class="col-date">17/05/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-ref"></td>
     </tr>
   </tbody>
 </table>

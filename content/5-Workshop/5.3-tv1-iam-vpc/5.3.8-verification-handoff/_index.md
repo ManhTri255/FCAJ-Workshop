@@ -1,6 +1,6 @@
 ﻿---
 title: "Verification & Handoff"
-date: 2024-01-01
+date: 2026
 weight: 8
 chapter: false
 pre: " <b> 5.3.8. </b> "

@@ -1,6 +1,6 @@
 ---
 title: "Week 1 Worklog"
-date: 2024-04-20
+date: 2026-04-20
 weight: 1
 chapter: false
 pre: " <b> 1.1. </b> "
@@ -32,53 +32,53 @@ pre: " <b> 1.1. </b> "
   </thead>
   <tbody>
     <tr>
-      <td class="col-day">20/04</td>
+      <td class="col-day">2</td>
       <td class="col-task">- Write a self-introduction to introduce yourself to FCAJ members.<br>- Create an AWS Free Tier account.<br>- Complete verification and account activation steps.</td>
-      <td class="col-date">20/04/2024</td>
-      <td class="col-date">20/04/2024</td>
-      <td class="col-ref">Module 01, AWS Management Console</td>
+      <td class="col-date">04/20/2026</td>
+      <td class="col-date">04/20/2026</td>
+      <td class="col-ref">https://000001.awsstudygroup.com/</td>
     </tr>
     <tr>
-      <td class="col-day">21/04</td>
+      <td class="col-day">3</td>
       <td class="col-task">- Verify and confirm receipt of 100 USD AWS Credits.<br>- Familiarize yourself with the AWS Management Console interface.<br>- Find a team to work on the project.</td>
-      <td class="col-date">21/04/2024</td>
-      <td class="col-date">21/04/2024</td>
-      <td class="col-ref">AWS Management Console</td>
+      <td class="col-date">04/21/2026</td>
+      <td class="col-date">04/21/2026</td>
+      <td class="col-ref">https://000001.awsstudygroup.com/</td>
     </tr>
     <tr>
-      <td class="col-day">22/04</td>
+      <td class="col-day">4</td>
       <td class="col-task">- Study Module 01-01: What Is Cloud Computing?<br>- Explore basic AWS services.</td>
-      <td class="col-date">22/04/2024</td>
-      <td class="col-date">22/04/2024</td>
-      <td class="col-ref">Module 01-01</td>
+      <td class="col-date">04/22/2026</td>
+      <td class="col-date">04/22/2026</td>
+      <td class="col-ref">https://www.youtube.com/watch?v=HxYZAK1coOI&list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&index=4</td>
     </tr>
     <tr>
-      <td class="col-day">23/04</td>
+      <td class="col-day">5</td>
       <td class="col-task">- Study Module 01-02: What Makes AWS Different?<br>- Learn about managed database services on AWS.</td>
-      <td class="col-date">23/04/2024</td>
-      <td class="col-date">23/04/2024</td>
-      <td class="col-ref">Module 01-02</td>
+      <td class="col-date">04/23/2026</td>
+      <td class="col-date">04/23/2026</td>
+      <td class="col-ref">https://www.youtube.com/watch?v=IK59Zdd1poE&list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&index=5</td>
     </tr>
     <tr>
-      <td class="col-day">24/04</td>
+      <td class="col-day">6</td>
       <td class="col-task">- Review knowledge from Module 01-01 and Module 01-02.<br>- Learn about the Serverless model and how to deploy functions on AWS.</td>
-      <td class="col-date">24/04/2024</td>
-      <td class="col-date">24/04/2024</td>
-      <td class="col-ref">Module 01-01, Module 01-02</td>
+      <td class="col-date">04/24/2026</td>
+      <td class="col-date">04/24/2026</td>
+      <td class="col-ref"></td>
     </tr>
     <tr>
-      <td class="col-day">25/04</td>
+      <td class="col-day">7</td>
       <td class="col-task">- Study Module 01-03: How to Start Your Cloud Journey?<br>- Learn how to create and manage virtual servers on AWS.</td>
-      <td class="col-date">25/04/2024</td>
-      <td class="col-date">25/04/2024</td>
-      <td class="col-ref">Module 01-03</td>
+      <td class="col-date">04/25/2026</td>
+      <td class="col-date">04/25/2026</td>
+      <td class="col-ref">https://www.youtube.com/watch?v=HSzrWGqo3ME&list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&index=6</td>
     </tr>
     <tr>
-      <td class="col-day">26/04</td>
+      <td class="col-day">8</td>
       <td class="col-task">- Summarize the knowledge learned in Module 01.</td>
-      <td class="col-date">26/04/2024</td>
-      <td class="col-date">26/04/2024</td>
-      <td class="col-ref">Module 01</td>
+      <td class="col-date">04/26/2026</td>
+      <td class="col-date">04/26/2026</td>
+      <td class="col-ref"></td>
     </tr>
   </tbody>
 </table>

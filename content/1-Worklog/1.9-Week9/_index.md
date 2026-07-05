@@ -1,6 +1,6 @@
 ---
 title: "Week 9 Worklog"
-date: 2026-01-01
+date: 2026
 weight: 9
 chapter: false
 pre: " <b> 1.9. </b> "
@@ -32,53 +32,53 @@ pre: " <b> 1.9. </b> "
   </thead>
   <tbody>
     <tr>
-      <td class="col-day">15/06</td>
+      <td class="col-day">2</td>
       <td class="col-task">- Review project deployment architecture <br> - Compare with planned Workshop architecture</td>
       <td class="col-date">06/15/2026</td>
       <td class="col-date">06/15/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-ref">https://app.diagrams.net/</td>
     </tr>
     <tr>
-      <td class="col-day">16/06</td>
+      <td class="col-day">3</td>
       <td class="col-task">- Revise architecture diagram <br> - Finalize architecture diagram and send for mentor feedback</td>
       <td class="col-date">06/16/2026</td>
       <td class="col-date">06/16/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-ref">https://app.diagrams.net/</td>
     </tr>
     <tr>
-      <td class="col-day">17/06</td>
+      <td class="col-day">4</td>
       <td class="col-task">- Revise architecture diagram again after receiving feedback from mentors</td>
       <td class="col-date">06/17/2026</td>
       <td class="col-date">06/17/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-ref">https://app.diagrams.net/</td>
     </tr>
     <tr>
-      <td class="col-day">18/06</td>
+      <td class="col-day">5</td>
       <td class="col-task">- Finalize infrastructure deployment architecture diagram for the project <br> - Build deployment plan</td>
       <td class="col-date">06/18/2026</td>
       <td class="col-date">06/18/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-ref">https://app.diagrams.net/</td>
     </tr>
     <tr>
-      <td class="col-day">19/06</td>
+      <td class="col-day">6</td>
       <td class="col-task">- Learn AWS WAF <br> - Research AWS WAF security model</td>
       <td class="col-date">06/19/2026</td>
       <td class="col-date">06/19/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-ref"></td>
     </tr>
     <tr>
-      <td class="col-day">20/06</td>
+      <td class="col-day">7</td>
       <td class="col-task">- Propose selecting appropriate Managed Rules and Rate Limits</td>
       <td class="col-date">06/20/2026</td>
       <td class="col-date">06/20/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-ref"></td>
     </tr>
     <tr>
-      <td class="col-day">21/06</td>
+      <td class="col-day">8</td>
       <td class="col-task">- Consolidate Workshop documentation</td>
       <td class="col-date">06/21/2026</td>
       <td class="col-date">06/21/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-ref"></td>
     </tr>
   </tbody>
 </table>

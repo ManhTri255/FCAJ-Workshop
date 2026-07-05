@@ -1,6 +1,6 @@
 ﻿---
 title: "Bảng tham số"
-date: 2024-01-01
+date: 2026
 weight: 3
 chapter: false
 pre: " <b> 5.2.3. </b> "

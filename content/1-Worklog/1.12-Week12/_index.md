@@ -1,6 +1,6 @@
 ---
 title: "Week 12 Worklog"
-date: 2026-01-01
+date: 2026
 weight: 12
 chapter: false
 pre: " <b> 1.12. </b> "
@@ -32,53 +32,53 @@ pre: " <b> 1.12. </b> "
   </thead>
   <tbody>
     <tr>
-      <td class="col-day">1</td>
-      <td class="col-task">- Review overall system functionality after integration completion <br> - Evaluate AWS infrastructure operation in deployment environment</td>
-      <td class="col-date">06/07/2026</td>
-      <td class="col-date">06/07/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
-    </tr>
-    <tr>
       <td class="col-day">2</td>
-      <td class="col-task">- Coordinate with team members for final testing <br> - Document remaining errors and agree on solutions</td>
-      <td class="col-date">07/07/2026</td>
-      <td class="col-date">07/07/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-task">- Review overall system functionality after integration completion <br> - Evaluate AWS infrastructure operation in deployment environment</td>
+      <td class="col-date">07/06/2026</td>
+      <td class="col-date">07/06/2026</td>
+      <td class="col-ref"></td>
     </tr>
     <tr>
       <td class="col-day">3</td>
-      <td class="col-task">- Adjust and optimize some system functions <br> - Verify synchronization between Frontend, Backend, and AWS services</td>
-      <td class="col-date">08/07/2026</td>
-      <td class="col-date">08/07/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-task">- Coordinate with team members for final testing <br> - Document remaining errors and agree on solutions</td>
+      <td class="col-date">07/07/2026</td>
+      <td class="col-date">07/07/2026</td>
+      <td class="col-ref"></td>
     </tr>
     <tr>
       <td class="col-day">4</td>
-      <td class="col-task">- Complete system deployment documentation guide <br> - Update architecture diagram and describe components according to final version</td>
-      <td class="col-date">09/07/2026</td>
-      <td class="col-date">09/07/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-task">- Adjust and optimize some system functions <br> - Verify synchronization between Frontend, Backend, and AWS services</td>
+      <td class="col-date">07/08/2026</td>
+      <td class="col-date">07/08/2026</td>
+      <td class="col-ref"></td>
     </tr>
     <tr>
       <td class="col-day">5</td>
-      <td class="col-task">- Consolidate internship report and project report content <br> - Review illustrative images, test results, and attached documentation</td>
-      <td class="col-date">10/07/2026</td>
-      <td class="col-date">10/07/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-task">- Complete system deployment documentation guide <br> - Update architecture diagram and describe components according to final version</td>
+      <td class="col-date">07/09/2026</td>
+      <td class="col-date">07/09/2026</td>
+      <td class="col-ref"></td>
     </tr>
     <tr>
       <td class="col-day">6</td>
-      <td class="col-task">- Revise report based on instructor and team member feedback <br> - Re-verify entire system before completion</td>
-      <td class="col-date">11/07/2026</td>
-      <td class="col-date">11/07/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-task">- Consolidate internship report and project report content <br> - Review illustrative images, test results, and attached documentation</td>
+      <td class="col-date">07/10/2026</td>
+      <td class="col-date">07/10/2026</td>
+      <td class="col-ref"></td>
     </tr>
     <tr>
       <td class="col-day">7</td>
+      <td class="col-task">- Revise report based on instructor and team member feedback <br> - Re-verify entire system before completion</td>
+      <td class="col-date">07/11/2026</td>
+      <td class="col-date">07/11/2026</td>
+      <td class="col-ref"></td>
+    </tr>
+    <tr>
+      <td class="col-day">8</td>
       <td class="col-task">- Complete internship records and project report <br> - Summarize all work carried out during the entire internship period <br> - Hand over documents, source code, and related content as requested</td>
-      <td class="col-date">12/07/2026</td>
-      <td class="col-date">12/07/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-date">07/12/2026</td>
+      <td class="col-date">07/12/2026</td>
+      <td class="col-ref"></td>
     </tr>
   </tbody>
 </table>

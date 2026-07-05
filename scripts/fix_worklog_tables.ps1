@@ -1,5 +1,5 @@
 $base = Join-Path $PSScriptRoot "..\content\1-Worklog" | Resolve-Path
-$ref = "https://cloudjourney.awsstudygroup.com/"
+$ref = ""
 
 $colgroup = @"
 <colgroup>

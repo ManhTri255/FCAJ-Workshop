@@ -1,6 +1,6 @@
 ---
 title: "Week 4 Worklog"
-date: 2026-01-01
+date: 2026
 weight: 4
 chapter: false
 pre: " <b> 1.4. </b> "
@@ -33,53 +33,53 @@ pre: " <b> 1.4. </b> "
   </thead>
   <tbody>
     <tr>
-      <td class="col-day">11/05</td>
+      <td class="col-day">2</td>
       <td class="col-task">- Complete Module 02-Lab03-01.4 - NAT Gateway <br> - Learn the role of NAT Gateway in providing Internet connectivity for Private Subnet</td>
       <td class="col-date">05/11/2026</td>
       <td class="col-date">05/11/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-ref">https://000003.awsstudygroup.com/1-introduce/1.4-natgateway/</td>
     </tr>
     <tr>
-      <td class="col-day">12/05</td>
+      <td class="col-day">3</td>
       <td class="col-task">- Complete Module 02-Lab03-04.3 - Create NAT Gateway <br> - Create a NAT Gateway <br> - Verify Internet connectivity from Private Subnet</td>
       <td class="col-date">05/12/2026</td>
       <td class="col-date">05/12/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-ref">https://000003.awsstudygroup.com/4-createec2server/4.3-natgateway/</td>
     </tr>
     <tr>
-      <td class="col-day">13/05</td>
+      <td class="col-day">4</td>
       <td class="col-task">- Complete Module 02-Lab03-01.2 - Route Table <br> - Learn the principles of routing in Amazon VPC</td>
       <td class="col-date">05/13/2026</td>
       <td class="col-date">05/13/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-ref">https://000003.awsstudygroup.com/1-introduce/1.2-routetable/</td>
     </tr>
     <tr>
-      <td class="col-day">14/05</td>
+      <td class="col-day">5</td>
       <td class="col-task">- Complete Module 02-Lab03-03.4 - Create Route Table for Outbound Internet <br> - Create a Route Table <br> - Configure routes to Internet Gateway and NAT Gateway</td>
       <td class="col-date">05/14/2026</td>
       <td class="col-date">05/14/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-ref">https://000003.awsstudygroup.com/3-prerequisite/3.4-createroutetable/</td>
     </tr>
     <tr>
-      <td class="col-day">15/05</td>
+      <td class="col-day">6</td>
       <td class="col-task">- Complete Module 02-Lab03-02.1 - Security Group <br> - Learn about access control mechanisms using Security Groups</td>
       <td class="col-date">05/15/2026</td>
       <td class="col-date">05/15/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-ref">https://000003.awsstudygroup.com/2-firewallinvpc/2.1-securitygroup/</td>
     </tr>
     <tr>
-      <td class="col-day">16/05</td>
+      <td class="col-day">7</td>
       <td class="col-task">- Complete Module 02-Lab03-03.5 - Create Security Groups <br> - Create Security Groups for resources in the VPC <br> - Verify Inbound and Outbound rules</td>
       <td class="col-date">05/16/2026</td>
       <td class="col-date">05/16/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-ref">https://000003.awsstudygroup.com/3-prerequisite/3.5-createsecuritygroup/</td>
     </tr>
     <tr>
-      <td class="col-day">17/05</td>
+      <td class="col-day">8</td>
       <td class="col-task">- Review the completed Labs <br> - Summarize knowledge about NAT Gateway, Route Table, and Security Groups</td>
       <td class="col-date">05/17/2026</td>
       <td class="col-date">05/17/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-ref"></td>
     </tr>
   </tbody>
 </table>

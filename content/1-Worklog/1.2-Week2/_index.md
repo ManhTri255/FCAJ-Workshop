@@ -1,6 +1,6 @@
 ---
 title: "Week 2 Worklog"
-date: 2026-01-01
+date: 2026
 weight: 2
 chapter: false
 pre: " <b> 1.2. </b> "
@@ -33,53 +33,53 @@ pre: " <b> 1.2. </b> "
   </thead>
   <tbody>
     <tr>
-      <td class="col-day">27/04</td>
+      <td class="col-day">2</td>
       <td class="col-task">- Study Module 01-04: AWS Global Infrastructure <br> - Learn about Regions, Availability Zones, Edge Locations and how AWS deploys infrastructure globally</td>
       <td class="col-date">04/27/2026</td>
       <td class="col-date">04/27/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-ref">https://www.youtube.com/watch?v=pjr5a-HYAjI&list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&index=7</td>
     </tr>
     <tr>
-      <td class="col-day">28/04</td>
+      <td class="col-day">3</td>
       <td class="col-task">- Study Module 01-05: AWS Service Management Tools <br> - Learn about administration and monitoring tools for AWS services <br> - Familiarize yourself with AWS Management Console and resource management tools on the AWS platform</td>
       <td class="col-date">04/28/2026</td>
       <td class="col-date">04/28/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-ref">https://www.youtube.com/watch?v=2PQYqH_HkXw&list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&index=8</td>
     </tr>
     <tr>
-      <td class="col-day">29/04</td>
+      <td class="col-day">4</td>
       <td class="col-task">- Study Module 01-06: AWS Cost Optimization and Working with AWS Support <br> - Learn cost management methods, resource optimization, and AWS technical support plans</td>
       <td class="col-date">04/29/2026</td>
       <td class="col-date">04/29/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-ref">https://www.youtube.com/watch?v=IY61YlmXQe8&list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&index=9</td>
     </tr>
     <tr>
-      <td class="col-day">30/04</td>
+      <td class="col-day">5</td>
       <td class="col-task">- Complete Module 01-Lab07-01: Create Budget by Template <br> - Learn how to use budget templates to track and control AWS costs <br> - Complete Task Amazon Bedrock to explore AI generative services on AWS</td>
       <td class="col-date">04/30/2026</td>
       <td class="col-date">04/30/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-ref">https://000001.awsstudygroup.com/4-h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-chi-ti%E1%BA%BFt-5-nhi%E1%BB%87m-v%E1%BB%A5-ki%E1%BA%BFm-ti%E1%BB%81n/</td>
     </tr>
     <tr>
-      <td class="col-day">01/05</td>
+      <td class="col-day">6</td>
       <td class="col-task">- Complete Module 01-Lab07-02: Create Cost Budget Tutorial <br> - Create a Cost Budget and configure alert thresholds for expected spending <br> - Complete Task Aurora and RDS</td>
       <td class="col-date">05/01/2026</td>
       <td class="col-date">05/01/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-ref">https://000001.awsstudygroup.com/4-h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-chi-ti%E1%BA%BFt-5-nhi%E1%BB%87m-v%E1%BB%A5-ki%E1%BA%BFm-ti%E1%BB%81n/</td>
     </tr>
     <tr>
-      <td class="col-day">02/05</td>
+      <td class="col-day">7</td>
       <td class="col-task">- Complete Module 01-Lab07-03: Creating a Usage Budget in AWS <br> - Learn how to create usage-based budgets and set up corresponding alerts <br> - Complete Task AWS Lambda</td>
       <td class="col-date">05/02/2026</td>
       <td class="col-date">05/02/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-ref">https://000001.awsstudygroup.com/4-h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-chi-ti%E1%BA%BFt-5-nhi%E1%BB%87m-v%E1%BB%A5-ki%E1%BA%BFm-ti%E1%BB%81n/</td>
     </tr>
     <tr>
-      <td class="col-day">03/05</td>
+      <td class="col-day">8</td>
       <td class="col-task">- Complete Module 01-Lab07-04: Creating a Reservation Instance (RI) Budget <br> - Learn budget management for Reserved Instances and how to monitor usage to optimize operational costs <br> - Complete Task Amazon EC2</td>
       <td class="col-date">05/03/2026</td>
       <td class="col-date">05/03/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-ref">https://000001.awsstudygroup.com/4-h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-chi-ti%E1%BA%BFt-5-nhi%E1%BB%87m-v%E1%BB%A5-ki%E1%BA%BFm-ti%E1%BB%81n/</td>
     </tr>
   </tbody>
 </table>

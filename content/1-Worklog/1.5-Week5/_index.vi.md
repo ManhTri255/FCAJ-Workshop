@@ -1,6 +1,6 @@
 ---
 title: "Worklog Tuần 5"
-date: 2026-01-01
+date: 2026
 weight: 5
 chapter: false
 pre: " <b> 1.5. </b> "
@@ -23,7 +23,7 @@ pre: " <b> 1.5. </b> "
 </colgroup>
   <thead>
     <tr>
-      <th>Ngày</th>
+      <th>Thứ</th>
       <th>Công việc</th>
       <th>Ngày bắt đầu</th>
       <th>Ngày hoàn thành</th>
@@ -32,53 +32,53 @@ pre: " <b> 1.5. </b> "
   </thead>
   <tbody>
     <tr>
-      <td class="col-day">18/05</td>
+      <td class="col-day">2</td>
       <td class="col-task">- Thực hiện Module 02-Lab03-04.1: Create EC2 Instances in Subnets <br> - Tạo Amazon EC2 trong các Subnet</td>
       <td class="col-date">18/05/2026</td>
       <td class="col-date">18/05/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-ref">https://000003.awsstudygroup.com/4-createec2server/4.1-createec2/</td>
     </tr>
     <tr>
-      <td class="col-day">19/05</td>
+      <td class="col-day">3</td>
       <td class="col-task">- Tiếp tục cấu hình Amazon EC2 <br> - Kiểm tra trạng thái hoạt động của máy chủ</td>
       <td class="col-date">19/05/2026</td>
       <td class="col-date">19/05/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-ref"></td>
     </tr>
     <tr>
-      <td class="col-day">20/05</td>
+      <td class="col-day">4</td>
       <td class="col-task">- Thực hiện Module 02-Lab03-04.2: Test Connection <br> - Kiểm tra khả năng kết nối đến Amazon EC2</td>
       <td class="col-date">20/05/2026</td>
       <td class="col-date">20/05/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-ref">https://000003.awsstudygroup.com/4-createec2server/4.2-connectec2/</td>
     </tr>
     <tr>
-      <td class="col-day">21/05</td>
+      <td class="col-day">5</td>
       <td class="col-task">- Thực hiện Module 02-Lab03-04.5: EC2 Instance Connect Endpoint <br> - Tìm hiểu và sử dụng EC2 Instance Connect Endpoint để kết nối máy chủ</td>
       <td class="col-date">21/05/2026</td>
       <td class="col-date">21/05/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-ref">https://000003.awsstudygroup.com/4-createec2server/4.5-eicendpoint/</td>
     </tr>
     <tr>
-      <td class="col-day">22/05</td>
+      <td class="col-day">6</td>
       <td class="col-task">- Kiểm tra kết nối giữa EC2 và các thành phần trong VPC <br> - Đánh giá cấu hình mạng sau khi triển khai</td>
       <td class="col-date">22/05/2026</td>
       <td class="col-date">22/05/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-ref">https://000003.awsstudygroup.com/4-createec2server/4.2-connectec2/</td>
     </tr>
     <tr>
-      <td class="col-day">23/05</td>
+      <td class="col-day">7</td>
       <td class="col-task">- Thực hiện Module 02-Lab10-06: Clean up Resources <br> - Xóa các tài nguyên đã tạo trong quá trình thực hành</td>
       <td class="col-date">23/05/2026</td>
       <td class="col-date">23/05/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-ref">https://000003.awsstudygroup.com/6-cleanup/</td>
     </tr>
     <tr>
-      <td class="col-day">24/05</td>
+      <td class="col-day">8</td>
       <td class="col-task">- Tổng hợp các nội dung đã học trong Module 02 <br> - Hệ thống lại kiến thức về VPC, Subnet, Internet Gateway, NAT Gateway, Route Table, Security Group và Amazon EC2</td>
       <td class="col-date">24/05/2026</td>
       <td class="col-date">24/05/2026</td>
-      <td class="col-ref">https://cloudjourney.awsstudygroup.com/</td>
+      <td class="col-ref"></td>
     </tr>
   </tbody>
 </table>
