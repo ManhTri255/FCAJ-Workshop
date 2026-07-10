@@ -14,7 +14,7 @@ chapter: false
 
 &emsp; **Email:** vumanhtri255@gmail.com
 
-&emsp; **University:** Ho Chi Minh City University of Technology
+&emsp; **University:** Ho Chi Minh City University of Technology (Hutech)
 
 &emsp; **Major:** Information Technology
 
